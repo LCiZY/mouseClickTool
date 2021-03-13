@@ -1,5 +1,11 @@
-# mouseClickTool
-"This's a simple little software " that release your hands from repetitive,mechaniacl,meaningless works!
-version v1.0
-author@ LC
+# MouseClickTool
+## 鼠标小工具———BASE ON QT
+
+在一些特定场景下有用，实现了以下功能：
+
+1.记录鼠标点击位置集合并复现，可重复多次
+
+2.同一位置多次点击，可重复多次
+
+
 
